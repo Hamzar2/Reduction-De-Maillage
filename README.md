@@ -111,8 +111,4 @@ Perspectives d'Amélioration
     
 *   **Visualisation** : Ajouter une interface pour prévisualiser les modèles et la simplification.
     
-
-### Auteur
-
-*   **Nom** : \[Idrissi Hamza\]
     
