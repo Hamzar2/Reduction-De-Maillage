@@ -102,7 +102,7 @@ Technologies et Bibliothèques Utilisées
 *   **Collections (defaultdict)** : Gestion efficace des structures de données.
     
 
-Perspectives d'Amélioration
+Amélioration
 ---------------------------
 
 *   **Support des fichiers MTL** : Implémenter un parseur pour extraire et appliquer les matériaux associés.
